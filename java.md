@@ -35,3 +35,6 @@ private   | X |   |   |
 ![Exceptions](/images/exceptions.png)
 
 ## Collections
+
+### [Collection](https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html)
+[add(E item)](https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html#add(E)), [addAll(Collection<? extends E> c)](https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html#addAll(java.util.Collection)), [remove(Object o)](https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html#remove(java.lang.Object)), [removeAll(Collection<?> c)](https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html#removeAll(java.util.Collection)), [size()](https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html#size()), [isEmpty()](https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html#isEmpty()), [clear](https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html#clear()),[toArray()](https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html#toArray()),[toArray(T[] a)](https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html#toArray(T[])), [iterator()](https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html#iterator())
